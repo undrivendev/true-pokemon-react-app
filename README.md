@@ -24,6 +24,8 @@ Keep in mind that you need to start the [backend API](https://github.com/undrive
 ## TODO
 - More testing
 - Better README
+- Error handling
+- Input validation
 - Dockerfile
 - Build and release pipeline
 - Production configuration adjustments
